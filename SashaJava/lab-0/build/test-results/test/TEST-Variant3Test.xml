@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Variant3Test" tests="19" skipped="0" failures="0" errors="0" timestamp="2022-12-12T23:42:43" hostname="DESKTOP-PHDPGCK" time="0.03">
+  <properties/>
+  <testcase name="arrayProviderTest[0](10, 1, 1, [I@5ba88be8)" classname="Variant3Test" time="0.005"/>
+  <testcase name="arrayProviderTest[1](5, 2, 1, [I@32c4e8b2)" classname="Variant3Test" time="0.0"/>
+  <testcase name="booleanProviderTest[0](2, true)" classname="Variant3Test" time="0.0"/>
+  <testcase name="booleanProviderTest[1](3, false)" classname="Variant3Test" time="0.0"/>
+  <testcase name="booleanProviderTest[2](10, true)" classname="Variant3Test" time="0.0"/>
+  <testcase name="caseProviderTest[0](12, Р—РёРјР°)" classname="Variant3Test" time="0.001"/>
+  <testcase name="caseProviderTest[1](1, Р—РёРјР°)" classname="Variant3Test" time="0.0"/>
+  <testcase name="caseProviderTest[2](10, РћСЃС–РЅСЊ)" classname="Variant3Test" time="0.0"/>
+  <testcase name="forProviderTest[0](1, 5, [I@34c01041)" classname="Variant3Test" time="0.0"/>
+  <testcase name="forProviderTest[1](1, 10, [I@c94fd30)" classname="Variant3Test" time="0.0"/>
+  <testcase name="ifProviderTest[0](2, 3)" classname="Variant3Test" time="0.001"/>
+  <testcase name="ifProviderTest[1](-2, -4)" classname="Variant3Test" time="0.0"/>
+  <testcase name="ifProviderTest[2](10, 11)" classname="Variant3Test" time="0.001"/>
+  <testcase name="integerProviderTest[0](2048, 2)" classname="Variant3Test" time="0.0"/>
+  <testcase name="integerProviderTest[1](1024, 1)" classname="Variant3Test" time="0.0"/>
+  <testcase name="integerProviderTest[2](4096, 4)" classname="Variant3Test" time="0.001"/>
+  <testcase name="matrixProviderTest[0](4, 4, [I@3f9342d4, [[I@ab7395e)" classname="Variant3Test" time="0.007"/>
+  <testcase name="whileProviderTest[0](53, 5, [I@53941c2f)" classname="Variant3Test" time="0.0"/>
+  <testcase name="whileProviderTest[1](100, 10, [I@21fd5faa)" classname="Variant3Test" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
